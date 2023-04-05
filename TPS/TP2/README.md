@@ -19,9 +19,9 @@ pip install numpy opencv-python
 1. Navigate to the directory where the code is stored.
 1. Update the __`url`__ variable in the code to point to the location of your input image.
 
-1. Run the code using the following command:
+1. Run the lab using the following command:
 ```
-python image_masking.py
+jupyter lab
 ```
 
 1. The output image will be displayed on the screen.
