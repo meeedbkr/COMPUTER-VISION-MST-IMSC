@@ -20,12 +20,12 @@ In order to run this script, you will need the following:
 * 
 	The script will display the following images, each showing the result of a different bitwise operation:
 	
-		* A 300x300 black square with a white borde
-		* A 300x300 black circle filled with whit
-		* The result of the "AND" operation on the square and circl
-		* The result of the "OR" operation on the square and circl
-		* The result of the "XOR" operation on the square and circl
-		* The result of the "NOT" operation on the circl
+		* A 300x300 black square with a white border
+		* A 300x300 black circle filled with white
+		* The result of the "AND" operation on the square and circle
+		* The result of the "OR" operation on the square and circle
+		* The result of the "XOR" operation on the square and circle
+		* The result of the "NOT" operation on the circle
 	
 ## Notes
 
