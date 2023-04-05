@@ -1,0 +1,17 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output files
+*.csv
+*.html
+*.pdf
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore environment files
+venv/
+env/
+
+# Ignore other files
+.DS_Store
