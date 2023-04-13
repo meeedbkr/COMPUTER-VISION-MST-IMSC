@@ -15,3 +15,8 @@ env/
 
 # Ignore other files
 .DS_Store
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
