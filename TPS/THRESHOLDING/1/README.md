@@ -14,7 +14,6 @@ This Python script loads an image, converts it to grayscale, and applies thresho
 
 1.  Install the OpenCV library using pip:
     
-    shCopy code
     
     ``pip install opencv-python```
     
@@ -24,7 +23,6 @@ This Python script loads an image, converts it to grayscale, and applies thresho
     
 4.  Run the script using the following command:
     
-    shCopy code
     
     ```python image_thresholding.py```
     
