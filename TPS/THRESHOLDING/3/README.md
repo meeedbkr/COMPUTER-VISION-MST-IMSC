@@ -8,13 +8,11 @@ This Python script demonstrates how to apply adaptive thresholding to an image u
 
 To run the script, you need to have Python and OpenCV installed on your system. You can install OpenCV using ```pip```:
 
-shCopy code
 
 ```pip install opencv-python```
 
 To run the script, open a terminal or command prompt in the folder containing the script and type:
 
-shCopy code
 
 ```python adaptive_thresholding.py```
 
