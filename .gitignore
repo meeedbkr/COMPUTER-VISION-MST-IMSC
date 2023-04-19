@@ -5,6 +5,7 @@
 *.csv
 *.html
 *.pdf
+*.mp4
 
 # Ignore Python cache files
 __pycache__/
